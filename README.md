@@ -2,7 +2,7 @@
 
 This is a project that demonstrates the capabilities of the UE4 OpenID Client
 
-## To Run:
+## To Run
 
 This example requires an OpenID provider server, I already have one set up but it requires docker:
   1. Download and install docker: 
