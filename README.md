@@ -1,6 +1,6 @@
 # Example project for UE4 OpenID Client
 
-This is a project that demonstrates the capabilities of the UE4 OpenID Client.
+This is a project that demonstrates the capabilities of the UE4 OpenID Client
 
 ## To Run
 
