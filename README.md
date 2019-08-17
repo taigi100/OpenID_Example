@@ -10,3 +10,5 @@ This example requires an OpenID provider server, I already have one set up but i
   3. In terminal run: `docker run -p 8080:8080 ue4_openid_client_example`
   
 To run the project, just open it with UE4 and press play!
+
+Note: This example requires you to use the plugin bought from the marketplace!
