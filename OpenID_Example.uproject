@@ -8,6 +8,10 @@
 			"Name": "OpenID_Client",
 			"Enabled": true,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/d5925e5c21b54572a2e768afdc515833"
+		},
+		{
+			"Name": "WebBrowserWidget",
+			"Enabled": true
 		}
 	]
 }
